@@ -1,0 +1,11 @@
+[01-Mar-2016 08:24:56 UTC] PHP Fatal error:  Call to undefined function thematic_create_doctype() in /home/tricityb/public_html/wp-content/themes/thematic/header.php on line 13
+[01-Mar-2016 08:24:56 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/tricityb/public_html/wp-content/themes/thematic/functions.php on line 163
+[01-Mar-2016 08:24:56 UTC] PHP Fatal error:  Call to undefined function thematic_abovemainclose() in /home/tricityb/public_html/wp-content/themes/thematic/footer.php on line 15
+[01-Mar-2016 08:24:57 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/tricityb/public_html/wp-content/themes/thematic/author.php on line 15
+[01-Mar-2016 08:24:57 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/tricityb/public_html/wp-content/themes/thematic/archive.php on line 15
+[01-Mar-2016 08:24:57 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/tricityb/public_html/wp-content/themes/thematic/404.php on line 14
+[01-Mar-2016 08:24:57 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/tricityb/public_html/wp-content/themes/thematic/404.php on line 14
+[13-Mar-2016 06:23:59 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/tricityb/public_html/wp-content/themes/thematic/functions.php on line 163
+[13-Mar-2016 06:24:00 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/tricityb/public_html/wp-content/themes/thematic/404.php on line 14
+[13-Mar-2016 06:24:00 UTC] PHP Fatal error:  Call to undefined function thematic_abovemainclose() in /home/tricityb/public_html/wp-content/themes/thematic/footer.php on line 15
+[26-May-2016 01:02:41 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/tricityb/public_html/wp-content/themes/thematic/author.php on line 15

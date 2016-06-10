@@ -1,0 +1,2 @@
+[01-Mar-2016 08:24:47 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/tricityb/public_html/wp-content/themes/tbc/functions.php on line 15
+[13-Mar-2016 06:23:51 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/tricityb/public_html/wp-content/themes/tbc/functions.php on line 15
