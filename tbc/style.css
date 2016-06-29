@@ -121,9 +121,7 @@ body {
 #main {
 	min-height: 900px;
 	background: #fff;
-	-webkit-box-shadow: 0 0 4px black;
-	    -moz-box-shadow: 0 0 4px black;
-	              box-shadow: 0 0 4px black;
+	
 }
 #logo {
 	background: url(images/logo.png) no-repeat bottom;
