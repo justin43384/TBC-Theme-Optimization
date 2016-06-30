@@ -239,7 +239,7 @@ ul.sf-menu li li li.sfHover ul {
 -------------------------------------------------------------- */
 
 #main {
-    clear:both;
+    /*clear:both;*/
 }
 .page-title {
     font-size:13px;
