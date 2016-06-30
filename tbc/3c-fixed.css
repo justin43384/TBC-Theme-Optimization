@@ -25,7 +25,7 @@ body {
     width:960px;
 }
 #footer {    
-    clear:both;
+    /*clear:both;*/
 }
 #siteinfo {
     clear:both;

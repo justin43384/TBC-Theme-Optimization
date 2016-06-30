@@ -95,7 +95,7 @@ a:hover {
 	background: url("images/mainnav.png")no-repeat scroll center top;
     height:100px;
     font-size:12px;
-    overflow:visible;
+    /*overflow:visible;*/
     z-index:99;
 }
 /*** ESSENTIAL STYLES ***/

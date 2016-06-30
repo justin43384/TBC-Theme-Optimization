@@ -178,7 +178,7 @@ body {
 /* This will clear the floats and keeps the access bottom line
 from jumping into the air */
 #access {
-  clear: both;
+  /*clear: both;*/
   float: center;
   text-align: center;
 }
